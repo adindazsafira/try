@@ -42,11 +42,11 @@ public class Frame_Badan_Ideal extends javax.swing.JFrame {
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(204, 0, 0));
-        jLabel2.setText("Height (cm)");
+        jLabel2.setText("Tinggi (cm)");
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(204, 0, 0));
-        jLabel3.setText("Weight (kg)");
+        jLabel3.setText("Berat (kg)");
 
         txtWeight.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         txtWeight.addActionListener(new java.awt.event.ActionListener() {
